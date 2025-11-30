@@ -3,7 +3,7 @@ I'm a passionate Front-End Developer specializing in  (MongoDB, Express.js, Reac
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/beshoy-milad-a72825250) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/beshoy-milad-a72825250/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bisho.milad777@gmail.com) 
 
 # 💻 Tech Stack:
