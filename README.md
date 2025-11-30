@@ -1,7 +1,7 @@
 # Hi there, I'm Beshoy Melad 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Development;Frontend+Web+Developer;CSS+Essentials+Principles+of+UX/UI+Design;JavaScript;Typescript;tailwindcss;React;Next.js;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Development;Frontend+Web+Developer;CSS+Essentials+Principles+of+UX/UI+Design;JavaScript;Typescript;tailwindcss;React;Next.js;Introduction+to+Backend:+NodeJS+Express" alt="Typing SVG" />
 </div
 
 ---
